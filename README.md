@@ -1,4 +1,6 @@
 ### Hi there 👋
+![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)
+
 <h1 align="center">Hi 👋, I'm Saheli Jati</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <p> Dedicated and results-driven professional with a strong background in data analytics. Proficient in Java, Python and SQL programming languages, with expertise in statistical analysis and data visualization tools. Proven track record of leveraging data to drive strategic insights and decision-making. Experienced in internship roles, applying analytical skills to solve real-world problems and collaborating effectively within multidisciplinary teams. </p>
