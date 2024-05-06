@@ -1,4 +1,3 @@
-### Hi there 👋
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif?format=2500w)
 
 <h1 align="center">Hi 👋, I'm Saheli Jati</h1>
