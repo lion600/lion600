@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Saheli Jati</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<h2> Dedicated and results-driven professional with a strong background in data analytics. Proficient in Python and R programming languages, with expertise in statistical analysis and data visualization tools such as Tableau. Proven track record of leveraging data to drive strategic insights and decision-making. Experienced in internship roles, applying analytical skills to solve real-world problems and collaborating effectively within multidisciplinary teams. </h2>
+<h2> Dedicated and results-driven professional with a strong background in data analytics. Proficient in Python and SQL programming languages, with expertise in statistical analysis and Dedicated and results-driven professional with a strong background in data analytics. Proficient in Python and R programming languages, with expertise in statistical analysis and data visualization tools . Proven track record of leveraging data to drive strategic insights and decision-making. Experienced in internship roles, applying analytical skills to solve real-world problems and collaborating effectively within multidisciplinary teams. Proven track record of leveraging data to drive strategic insights and decision-making. Experienced in internship roles, applying analytical skills to solve real-world problems and collaborating effectively within multidisciplinary teams. </h2>
 
 <img align ="right" alt="coding" width = "400" src = "https://cdn.dribbble.com/users/260312/screenshots/2553737/media/9a309559bb2b0f2fc119c5f86eab6c6a.gif" >
 
